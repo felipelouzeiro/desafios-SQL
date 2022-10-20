@@ -1,23 +1,7 @@
-# Boas vindas ao repositório do projeto All For One
+# Projeto All For One
 
-# Sumário
-
-- [Habilidades](#habilidades)
-- [Entregáveis](#entregáveis)
-  - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
-  - [Desenvolvimento](#desenvolvimento)
-- [Como desenvolver](#como-desenvolver)
-  - [Instruções para restaurar o banco de dados Northwind](#instruções-para-restaurar-o-banco-de-dados-northwind)
-- [Requisitos do projeto](#requisitos-do-projeto)
-  - [Lista de requisitos](#lista-de-requisitos)
-    - [Desafios Iniciais](#desafios-iniciais)
-    - [Desafios sobre filtragem de dados](#desafios-sobre-filtragem-de-dados)
-    - [Desafios de manipulação de tabelas](#desafios-de-manipulação-de-tabelas)
-
----
 
 # Habilidades
-Nesse projeto, você será capaz de:
 
 - Entender o que são bancos de dados
 - Entender como a linguagem de consulta estruturada (SQL) é usada
@@ -45,16 +29,6 @@ Nesse projeto, você será capaz de:
 
 ---
 
-# Entregáveis
-
-## O que deverá ser desenvolvido
-
-Hoje você fará um projeto com o codinome *All For One* em que praticará todos os conceitos de SQL já ensinados até aqui. Porém, você vai usar um banco de dados totalmente diferente, então dê tchau para o `sakila` e dê boas vindas ao `Northwind`, que será usado neste projeto. As instruções de como restaurar o banco podem ser lidas a seguir.
-
----
-
-# Como desenvolver
-
 ## Instruções para restaurar o banco de dados `Northwind`
 
 1. Faça o download do arquivo de backup [aqui](northwind.sql) clicando em "Raw", depois clicando com botão direito e selecionando "Salvar como" para salvar o arquivo em seu computador.
@@ -79,8 +53,6 @@ Hoje você fará um projeto com o codinome *All For One* em que praticará todos
 ---
 
 # Requisitos do projeto
-
-Monte queries para encontrar as informações esperadas pelos desafios:
 
 ## Lista de Requisitos
 
